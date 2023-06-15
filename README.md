@@ -7,8 +7,8 @@ Il vous faut go1.20 pour ce projet.
 Pour commencer et lancer les tests :
 
 ```
-$ tar xvf ./goban-go-1-20.tar.gz
-$ cd goban-go
+$ git clone https://github.com/lumapps/test-goban-go.git
+$ cd test-goban-go
 $ go test .
 ```
 
@@ -88,8 +88,8 @@ You need go1.20 for this.
 To start and launch tests:
 
 ```
-$ tar xvf ./goban-go-1-20.tar.gz
-$ cd goban-go
+$ git clone https://github.com/lumapps/test-goban-go.git
+$ cd test-goban-go
 $ go test .
 ```
 

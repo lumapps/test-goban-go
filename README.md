@@ -40,7 +40,7 @@ Pour faire cette fonction on se base sur une fonction `GetStatus(x, y)` qui reto
 * OUT : quand la position x, y est hors du goban
 
 
-Complétez la méthode `Goban.IsTaken` dans `goban.go` avec votre solution (vous pouvez ajouter des paramètres à la méthode si besoin). Celle-ci doit respecter les bonnes pratiques du language Go.
+Complétez la méthode `Goban.IsTaken` dans `goban.go` avec votre solution. Celle-ci doit respecter les bonnes pratiques du language Go.
 Vous pouvez tester votre solution à tout moment avec `go test .` (les tests sont dans le fichier goban_test.go).
 
 Exemples :
@@ -118,7 +118,7 @@ The objective of the test is to write an IsTaken function which takes in paramet
 - EMPTY: when there is no stone at position x, y
 - OUT: when the position x, y is out of the goban
 
-Complete the Goban.IsTaken method with your solution (you can add parameters to the method if needed). This one must respect the good practices of the Go language.
+Complete the Goban.IsTaken method with your solution. This one must respect the good practices of the Go language.
 You can test your solution at any time with `go test .` (the tests are in the file goban_test.go).
 
 Examples:
